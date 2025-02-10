@@ -1,0 +1,17 @@
+[project]
+name = "p2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "litellm>=1.60.8",
+]
+
+[project.scripts]
+p2 = "p2:main"
+gemini = "p2.main:call_gemini"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
