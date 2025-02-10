@@ -100,3 +100,15 @@ Think of LiteLLM as a universal remote control that can work with many TV brands
 
 
 
+# How we use LiteLLM in uv
+
+* Open the terminal in a folder and type this command **uv init --package**
+* After install uv library, go to the terminal of uv file and open a vs code
+* Run the by default file which is in your project
+* type this command in terminal **uv add litellm** then it will be install alomg all the dependancy
+
+
+ ## Implementation of code
+ 
+ * Checkout the src directory where .py file exist in which you can see the implementation.
+
