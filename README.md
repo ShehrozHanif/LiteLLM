@@ -78,12 +78,19 @@ Think of LiteLLM as a universal remote control that can work with many TV brands
 
 ## How is LiteLLM Different from Other Libraries?
 
-        Feature	LiteLLM	OpenAI API	Google Gemini API	Local AI Models
-        Multi-Model Support	✅ Yes	❌ No (Only OpenAI)	❌ No (Only Gemini)	❌ No
-        Local Model Support	✅ Yes	❌ No	❌ No	✅ Yes
-        Single Codebase	✅ Yes (One function for all)	❌ No	❌ No	❌ No
-        API Switching	✅ Easy	❌ Requires changes	❌ Requires changes	❌ Requires changes
-
+        Feature	     LiteLLM  	   OpenAI API	    Google Gemini API   	 Local AI Models
+        Multi-Model 	✅ Yes	      ❌ No           	 ❌ No 	                ❌ No
+        Support                  (Only OpenAI)     (Only Gemini)
+        
+        Local Model  ✅ Yes	      ❌ No	            ❌ No                 	✅ Yes
+        Support
+        
+        Single      	✅ Yes 	     ❌ No	           ❌ No	                 ❌ No
+        Codebase   (One function 
+                    for all)
+                    
+        API 	       ✅ Easy	      ❌ 	              ❌ 	                    ❌ 
+      Switching                Requires changes     Requires changes        Requires changes
 
 ## Summary
 
