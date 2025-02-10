@@ -89,8 +89,8 @@ Think of LiteLLM as a universal remote control that can work with many TV brands
           Codebase   (One function 
                       for all)
                     
-          API 	       ✅ Easy	      ❌ 	              ❌ 	                    ❌ 
-        Switching                Requires changes     Requires changes        Requires changes
+           API 	       ✅ Easy	      ❌ 	              ❌ 	                    ❌ 
+          Switching                Requires changes     Requires changes        Requires changes
 
 ## Summary
 
