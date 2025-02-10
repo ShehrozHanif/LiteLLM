@@ -77,20 +77,20 @@ Here’s a simple Python script to send a message to an AI model using LiteLLM:
 Think of LiteLLM as a universal remote control that can work with many TV brands (AI models). Instead of having separate remotes for each TV, LiteLLM gives you one tool to control them all.
 
 ## How is LiteLLM Different from Other Libraries?
-
-        Feature	     LiteLLM  	   OpenAI API	    Google Gemini API   	 Local AI Models
-        Multi-Model 	✅ Yes	      ❌ No           	 ❌ No 	                ❌ No
-        Support                  (Only OpenAI)     (Only Gemini)
+  
+          Feature	     LiteLLM  	   OpenAI API	    Google Gemini API   	 Local AI Models
+          Multi-Model 	✅ Yes	      ❌ No           	 ❌ No 	                ❌ No
+          Support                  (Only OpenAI)     (Only Gemini)
         
-        Local Model  ✅ Yes	      ❌ No	            ❌ No                 	✅ Yes
-        Support
+          Local Model  ✅ Yes	      ❌ No	            ❌ No                 	✅ Yes
+          Support
         
-        Single      	✅ Yes 	     ❌ No	           ❌ No	                 ❌ No
-        Codebase   (One function 
-                    for all)
+          Single      	✅ Yes 	     ❌ No	           ❌ No	                 ❌ No
+          Codebase   (One function 
+                      for all)
                     
-        API 	       ✅ Easy	      ❌ 	              ❌ 	                    ❌ 
-      Switching                Requires changes     Requires changes        Requires changes
+          API 	       ✅ Easy	      ❌ 	              ❌ 	                    ❌ 
+        Switching                Requires changes     Requires changes        Requires changes
 
 ## Summary
 
